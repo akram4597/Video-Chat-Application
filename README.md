@@ -1,6 +1,6 @@
 # Video Chat Web Application
 
-This is a a peer-to-peer video chat web. You can copy the room's link and share it with anyone you want to meet. 
+This is a a peer-to-peer video chat web app. You can copy the room's link and share it with anyone you want to meet. 
 
 ## Technologies
 * Node.js
